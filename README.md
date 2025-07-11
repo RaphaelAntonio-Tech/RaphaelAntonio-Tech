@@ -1,7 +1,9 @@
 # 👨🏻‍💻Raphael Antônio
 **`Desenvolvedor Front-End`**
 
-Me chamo Raphael Antônio, tenho 18 anos e sou natural de Brasilía de Minas. Conclui o ensino médio nna escola estadual Sant' Ana, junto com o curso técnico em informática no Instituto Genesis. Atualmente, estou estudando HTML, CSS e JavaScript. Sou apaixonado por tecnologia e compartilho meu conhecimento através do LinkedIn, onde mostro soluções e avanços no meu aprendizado.
+Olá me chamo Raphael Antônio e estou trilhando meu caminho como desenvolvedor front-end. Sou apaixonado por tecnologia e estrou sempre aprendendo algo novo. Compartilho meus conhecimentos através do LinkedIn, onde mostro soluções e avanços no meu aprendizado. Estou em busca do meu primeiro emprego na área como programador! Aqui no GitHub compartilho meus projetos, estudos e experiências.
+
+
 <p align="left">
     <a href="https://github.com/RaphaelAntonio-Tech/RaphaelAntonio-Tech/edit/main/README.md">
         <img 
