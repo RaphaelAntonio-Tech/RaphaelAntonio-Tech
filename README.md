@@ -56,6 +56,9 @@ Me chamo Raphael Antônio, tenho 18 anos e sou natural de Brasilía de Minas. Co
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+
+
+
  ### 📊 Estatísticas
 
 <p>
