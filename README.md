@@ -1,7 +1,7 @@
 # 👨🏻‍💻Raphael Antônio
 **`Desenvolvedor Front-End`**
 
-Olá me chamo Raphael Antônio e estou trilhando meu caminho como desenvolvedor front-end. Sou apaixonado por tecnologia e estrou sempre aprendendo algo novo. Compartilho meus conhecimentos através do LinkedIn, onde mostro soluções e avanços no meu aprendizado. Estou em busca do meu primeiro emprego na área como programador! Aqui no GitHub compartilho meus projetos, estudos e experiências.
+Olá me chamo Raphael Antônio e estou trilhando meu caminho como desenvolvedor front-end. Sou apaixonado por tecnologia e estou sempre aprendendo algo novo. Compartilho meus conhecimentos através do LinkedIn, onde mostro soluções e avanços no meu aprendizado. Estou em busca do meu primeiro emprego na área como programador! Aqui no GitHub compartilho meus projetos, estudos e experiências.
 
 
 <p align="left">
