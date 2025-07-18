@@ -23,7 +23,7 @@ Olá me chamo Raphael Antônio e estou trilhando meu caminho como desenvolvedor 
 
 ---
 
-### 🤖 Linguagenns e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
