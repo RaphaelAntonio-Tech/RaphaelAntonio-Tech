@@ -5,14 +5,14 @@ Olá me chamo Raphael Antônio e estou trilhando meu caminho como desenvolvedor 
 
 
 <p align="left">
-    <a href="https://github.com/RaphaelAntonio-Tech/RaphaelAntonio-Tech/edit/main/README.md">
+    <a href="[https://github.com/RaphaelAntonio-Tech/RaphaelAntonio-Tech/edit/main/README.md](https://github.com/RaphaelAntonio-Tech)">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/RaphaelAntonio-Tech?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/RaphaelAntonio-Tech/RaphaelAntonio-Tech/edit/main/README.md">
+    <a href="[https://github.com/RaphaelAntonio-Tech/RaphaelAntonio-Tech/edit/main/README.md](https://github.com/RaphaelAntonio-Tech)">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
