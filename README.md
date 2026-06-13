@@ -1,8 +1,15 @@
 # 👨🏻‍💻Raphael Antônio
 **`Desenvolvedor Front-End`**
 
-Olá me chamo Raphael Antônio e estou trilhando meu caminho como desenvolvedor front-end. Sou apaixonado por tecnologia e estou sempre aprendendo algo novo. Compartilho meus conhecimentos através do LinkedIn, onde mostro soluções e avanços no meu aprendizado. Estou em busca do meu primeiro emprego na área como programador! Aqui no GitHub compartilho meus projetos, estudos e experiências.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
+💻 Focado em Desenvolvimento de Software e Desenvolvimento Web
+
+📚 Atualmente estudando JavaScript, lógica de programação e desenvolvimento de interfaces
+
+🔨 Construindo projetos para transformar conhecimento em experiência prática
+
+🎯 Em busco da minha primeira oportunidade de estágio na área de  tecnologia
 
 <p align="left">
     <a href="[https://github.com/RaphaelAntonio-Tech/RaphaelAntonio-Tech/edit/main/README.md](https://github.com/RaphaelAntonio-Tech)">
